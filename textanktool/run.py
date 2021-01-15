@@ -24,6 +24,8 @@ def upload_files():
     paths.insert(tk.END, selectFile + '\n')
     paths.update()
 def cal_textrank(window, alpha):
+    with open('停用词表.txt', 'r', encoding='utf-8') as ban:
+        banlist = ban.read().splitlines()
     win = int(window)
     alpha = float(alpha)
     with open('./original/corpus1.txt', 'r', encoding='utf-8') as f:
@@ -36,6 +38,8 @@ def cal_textrank(window, alpha):
         res = tr.printResult()
     textrank = ''
     for item in res:
+        if item[0].strip() in banlist:
+            continue
         s = str(item).replace('(','').replace(')','').replace('\'','')+'\n'
         textrank+=s
     with open('./textrank.txt', 'w', encoding='utf-8') as w:
