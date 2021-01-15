@@ -2,7 +2,10 @@
 A simple python gui textrank tool for Chinese  
 这是一个简单的图形化中文textrank演示小工具  
   
-You can run the tool by "python run.py".  
+You can run the tool by:  
+cd ./textrank
+python run.py  
+  
 It only works properly on Windows.  
   
 运行：  
