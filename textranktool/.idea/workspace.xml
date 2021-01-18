@@ -9,16 +9,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/textranktool$TextRank.coverage" NAME="TextRank Coverage Results" MODIFIED="1610935361375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
     <SUITE FILE_PATH="coverage/textank$split.coverage" NAME="split Coverage Results" MODIFIED="1610678445442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/textank$calwords.coverage" NAME="calwords Coverage Results" MODIFIED="1610678498350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/textank$showtr.coverage" NAME="showtr Coverage Results" MODIFIED="1610692372806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/textank$TextRank.coverage" NAME="TextRank Coverage Results" MODIFIED="1610678878766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/textranktool$run.coverage" NAME="run Coverage Results" MODIFIED="1610935476638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
     <SUITE FILE_PATH="coverage/textank$login.coverage" NAME="login Coverage Results" MODIFIED="1610593175705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/showtr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/original/corpus1.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -37,6 +58,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+=======
+        <entry file="file://$PROJECT_DIR$/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="7" />
+              <folding>
+                <element signature="e#59#98#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
         <entry file="file://$PROJECT_DIR$/cal/corpus1.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -67,8 +103,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TextRank.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-1240">
               <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+=======
+            <state relative-caret-position="1660">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -76,6 +117,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/matrix.csv">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,6 +139,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -112,18 +156,26 @@
       <find>usr</find>
     </findStrings>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+=======
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/login.py" />
         <option value="$PROJECT_DIR$/calwords.py" />
         <option value="$PROJECT_DIR$/split.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/showtr.py" />
         <option value="$PROJECT_DIR$/TextRank.py" />
         <option value="$PROJECT_DIR$/run.py" />
+=======
+        <option value="$PROJECT_DIR$/TextRank.py" />
+        <option value="$PROJECT_DIR$/showtr.py" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
       </list>
     </option>
   </component>
@@ -133,29 +185,58 @@
     <option name="width" value="1337" />
     <option name="height" value="907" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="textranktool" type="b2602c69:ProjectViewProjectNode" />
               <item name="textranktool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="textranktool" type="b2602c69:ProjectViewProjectNode" />
               <item name="textranktool" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="textank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="textank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="textank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="textank" type="462c0819:PsiDirectoryNode" />
+              <item name="cal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="textank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="textank" type="462c0819:PsiDirectoryNode" />
+              <item name="corpus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="textank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="textank" type="462c0819:PsiDirectoryNode" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
               <item name="original" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +262,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.run">
+=======
+  <component name="RunManager" selected="Python.showtr">
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
     <configuration name="TextRank" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="textank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,7 +311,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
       <module name="textank" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,7 +328,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login.py" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,11 +387,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.run" />
         <item itemvalue="Python.TextRank" />
         <item itemvalue="Python.showtr" />
         <item itemvalue="Python.calwords" />
         <item itemvalue="Python.split" />
+=======
+        <item itemvalue="Python.showtr" />
+        <item itemvalue="Python.TextRank" />
+        <item itemvalue="Python.calwords" />
+        <item itemvalue="Python.split" />
+        <item itemvalue="Python.login" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
       </list>
     </recent_temporary>
   </component>
@@ -316,11 +417,15 @@
       <workItem from="1610670298388" duration="795000" />
       <workItem from="1610671455000" duration="9927000" />
       <workItem from="1610692344800" duration="1238000" />
+<<<<<<< HEAD
       <workItem from="1610928871084" duration="5495000" />
+=======
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="34658000" />
   </component>
   <component name="ToolWindowManager">
@@ -328,11 +433,23 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18186696" />
+=======
+    <option name="totallyTimeSpent" value="29163000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17918456" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946353" visible="true" weight="0.32962137" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.32962137" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,8 +476,21 @@
     <entry file="file://$PROJECT_DIR$/original/huanqiu_mil.txt" />
     <entry file="file://$PROJECT_DIR$/cal/corpus2.txt" />
     <entry file="file://$PROJECT_DIR$/cal/corpus184.txt" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/showtr.py" />
     <entry file="file://$PROJECT_DIR$/login.py" />
+=======
+    <entry file="file://$PROJECT_DIR$/showtr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
     <entry file="file://$PROJECT_DIR$/original/corpus1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -374,6 +504,19 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="7" />
+          <folding>
+            <element signature="e#59#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
     <entry file="file://$PROJECT_DIR$/cal/corpus1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -396,14 +539,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TextRank.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-1240">
           <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+=======
+        <state relative-caret-position="1660">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/matrix.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -421,5 +570,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> b8bc59525f7528f7329eaa82724ca269ce809d58
   </component>
 </project>
