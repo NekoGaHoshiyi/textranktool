@@ -6,7 +6,7 @@ You can run the tool by:
 cd ./textranktool    
 python run.py  
   
-It only works properly on Windows.  
+It may only works properly on Windows.  
   
 运行：  
 1.上传文件  
